@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
