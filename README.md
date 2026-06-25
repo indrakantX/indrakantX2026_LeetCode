@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
