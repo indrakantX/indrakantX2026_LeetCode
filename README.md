@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
 |  |
@@ -83,5 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
