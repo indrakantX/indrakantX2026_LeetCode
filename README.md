@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0541-reverse-string-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0541-reverse-string-ii) |
 | [2540-minimum-common-value](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
