@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3364-minimum-positive-sum-subarray](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -90,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
