@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1037-valid-boomerang](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1037-valid-boomerang) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
