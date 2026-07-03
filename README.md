@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1037-valid-boomerang](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1037-valid-boomerang) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
