@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3340-check-balanced-string](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/3340-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |
