@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2540-minimum-common-value](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2540-minimum-common-value) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0541-reverse-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0110-balanced-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
