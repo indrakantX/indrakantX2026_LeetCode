@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1037-valid-boomerang](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1037-valid-boomerang) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
