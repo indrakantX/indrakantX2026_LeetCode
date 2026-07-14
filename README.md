@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
