@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1037-valid-boomerang](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1037-valid-boomerang) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
