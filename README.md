@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0541-reverse-string-ii) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
