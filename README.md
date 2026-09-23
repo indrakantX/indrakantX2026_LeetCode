@@ -233,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
