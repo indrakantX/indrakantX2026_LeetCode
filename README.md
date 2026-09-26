@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
