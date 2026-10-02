@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -125,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0183-customers-who-never-order) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
