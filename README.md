@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1037-valid-boomerang](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1037-valid-boomerang) |
