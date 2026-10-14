@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2352-equal-row-and-column-pairs](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1037-valid-boomerang) |
 | [1480-running-sum-of-1d-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
