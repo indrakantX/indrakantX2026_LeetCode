@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
