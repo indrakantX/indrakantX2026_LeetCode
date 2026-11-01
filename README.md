@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/2540-minimum-common-value) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
 ## Breadth-First Search
 |  |
@@ -270,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
