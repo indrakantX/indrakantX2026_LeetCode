@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/indrakantX/indrakantX2026_LeetCode/tree/master/0389-find-the-difference) |
